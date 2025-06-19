@@ -1,0 +1,29 @@
+{
+  
+  "scripts": {
+  
+    
+  "start": "craco start",
+  
+    
+  "build": "craco build",
+  
+    
+  "test": "craco test"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@craco/craco": "^7.1.0"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "face-api.js": "^0.22.2"
+  
+  }
+}
